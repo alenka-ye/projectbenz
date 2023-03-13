@@ -15,8 +15,8 @@ cost = volume * 3
 print(ru.cost, round(cost, 2))
 
 #средний объём потребления нефтепродуктов в России 3699000 баррелей в сутки.
-bar1 = 3699000
-gallon1 = bar1 * 19.5
-litr1 = gallon1 * 3.785412
-vlitrahinyear = litr1 * 365
-print(ru.vlitrahinyear,vlitrahinyear)
+bar_1 = 3699000
+gallon_1 = bar_1 * 19.5
+litr_1 = gallon_1 * 3.785412
+v_litrah_in_year = litr_1 * 365
+print(ru.v_litrah_in_year,v_litrah_in_year)
